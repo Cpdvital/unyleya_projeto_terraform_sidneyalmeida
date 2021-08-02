@@ -1,3 +1,3 @@
 namespace = "Dev"
-location    = "East US"
+##location    = "East US"
 appname = "webdemo"

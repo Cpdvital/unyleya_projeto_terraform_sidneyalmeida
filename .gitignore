@@ -1,0 +1,4 @@
+*.exe;
+terraform-provider-azurerm_v2.46.0_x5.exe;
+terraform-provider-azuread_v1.6.0_x5.exe;
+
